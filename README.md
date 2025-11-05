@@ -100,7 +100,7 @@ R² Score	0.9179	0.9181
 🚀 How to Run the Project
 
 Clone the repository
-
+https://github.com/meet-2621/USA-Housing-Price-Prediction-MLR
 
 Navigate to the folder
 
